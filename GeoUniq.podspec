@@ -11,7 +11,7 @@ s.platform     = :ios
 s.ios.deployment_target = '8.1'
 
 # the Pre-Compiled Framework:
-s.source          = { :http => 'https://github.com/geouniq/GeoUniqSDK-iOS/raw/master/GeoUniq.zip' }
+s.source          = { :http => 'https://github.com/geouniq/GeoUniqSDK-iOS/raw/master/GeoUniq-1.3.8.zip' }
 s.ios.vendored_frameworks = 'GeoUniq.framework'
 s.swift_version = "4.2"
 s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.2' }
