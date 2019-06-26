@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'GeoUniq'
-s.version          = '1.4.2'
+s.version          = '1.4.3'
 s.summary          = 'GeoUniq ios framework'
 
 
